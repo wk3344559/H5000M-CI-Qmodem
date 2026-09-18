@@ -59,6 +59,11 @@ CONFIG_PACKAGE_kmod-mt76x0u=y
 CONFIG_PACKAGE_kmod-mt76x2u=y
 CONFIG_PACKAGE_kmod-mt7663u=y
 CONFIG_PACKAGE_kmod-mt7921u=y
+CONFIG_PACKAGE_kmod-mt7996e=y
+CONFIG_PACKAGE_kmod-mt7990-firmware=y
+CONFIG_PACKAGE_kmod-mt7992-firmware=y
+CONFIG_PACKAGE_kmod-mt7992-23-firmware=y
+
 
 # Qualcomm Atheros ath10k（仅官方驱动）
 CONFIG_PACKAGE_kmod-ath=y
